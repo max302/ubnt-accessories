@@ -1,4 +1,4 @@
-![Sample picture of mount](/pictures/sample.jpg)
+![Sample picture of mount](./pictures/sample.jpg)
 
 # Description
 
@@ -26,4 +26,4 @@ In short, try these settings first and go from there:
 
 It should look something like this. 
 
-![Print orientation](/pictures/printorientation.png)
+![Print orientation](./pictures/printorientation.png)
